@@ -23,7 +23,7 @@ Este directorio incluye cuatro carpetas y un archivo .txt, cada uno con componen
 ## Instrucciones de Uso:
 Para garantizar el correcto funcionamiento de los scripts, siga las instrucciones de instalación y ejecución detalladas en el archivo `requirements.txt`.
 
-Nota: Al ejecutar Solución con Red Neuronal.ipynb se sobreescriben los archivos de modelo_red_neuronal.keras y tokenizer.json. Se puede hacer si se desea comprobar el funcionamiento completo del script.
+Nota: Al ejecutar Solución con `Red Neuronal.ipynb` se sobreescriben los archivos de `modelo_red_neuronal.keras` y `tokenizer.json`. Se puede hacer si se desea comprobar el funcionamiento completo del script.
 
 --------------------------------------------------
 
