@@ -14,7 +14,7 @@ Este directorio incluye cuatro carpetas y un archivo .txt, cada uno con componen
      - `Solución con Red Neuronal.ipynb`: Notebook para el entrenamiento y evaluación de la red neuronal.
      - `modelo_red_neuronal.keras`: Modelo de red neuronal entrenado y exportado para el uso en interfaz.
      - `tokenizer.json`: Tokenizador necesario para la implementación de la red neuronal en la interfaz.
-     - `SBW-vectors-300-min5.txt.bz2`: Archivo de word embedding para la capa de entrada de la red neuronal, creado por [Cristian Cardellino](https://github.com/crscardellino). No incluido en este repositorio. Se puede descargar directamente en el siguiente [enlace](https://cs.famaf.unc.edu.ar/~ccardellino/SBWCE/SBW-vectors-300-min5.txt.bz2) y añadir manualmente a la carpeta `/Red Neuronal`.
+     - `SBW-vectors-300-min5.txt.bz2`: Archivo de word embedding para la capa de entrada de la red neuronal, creado por [Cristian Cardellino](https://github.com/crscardellino). No incluido en este repositorio. Se puede descargar directamente en el siguiente [enlace](https://cs.famaf.unc.edu.ar/~ccardellino/SBWCE/SBW-vectors-300-min5.txt.bz2) (790MB) y añadir manualmente a la carpeta `/Red Neuronal`.
    - `/Interfaz`:
      - Notebook `.ipynb` que, al ejecutarse, permite la visualización de la interfaz de usuario descrita en la documentación del proyecto.
    - `/Memoria`:
@@ -53,7 +53,7 @@ This directory includes four folders and a .txt file, each containing key compon
      - `Neural Network Solution.ipynb`: Notebook for training and evaluating the neural network.
      - `neural_network_model.keras`: Trained and exported neural network model for use in the interface.
      - `tokenizer.json`: Tokenizer required for the implementation of the neural network in the interface.
-     - `SBW-vectors-300-min5.txt.bz2`: Word embedding file for the input layer of the neural network, created by [Cristian Cardellino](https://github.com/crscardellino). Not included in this repository. It can be downloaded on the following [link](https://cs.famaf.unc.edu.ar/~ccardellino/SBWCE/SBW-vectors-300-min5.txt.bz2) and manually added to the `/Red Neuronal` folder.
+     - `SBW-vectors-300-min5.txt.bz2`: Word embedding file for the input layer of the neural network, created by [Cristian Cardellino](https://github.com/crscardellino). Not included in this repository. It can be downloaded on the following [link](https://cs.famaf.unc.edu.ar/~ccardellino/SBWCE/SBW-vectors-300-min5.txt.bz2) (790MB) and manually added to the `/Red Neuronal` folder.
    - `/Interfaz`:
      - `.ipynb` notebook that, when executed, allows the visualization of the user interface described in the project documentation.
    - `/Memoria`:
